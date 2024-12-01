@@ -8,10 +8,10 @@ The code recreates the video with the added visual overlay of the boxes and perf
 This comprehensive approach combines visualization and analysis, making it a valuable tool for studying mouse movement behaviour in video-based experiments.
 
 ### The original video
-![The original data gif](Initial_video_gif.gif)
+![The original data gif](https://github.com/KrishnaAggarwal2003/Mouse-Movement-Analysis-using-OpenCV/blob/main/Initial_video_gif.gif)
 
 ### Video with boxes added using OpenCV
-![With boxes gif](With_boxes_video_gif.gif)
+![With boxes gif](https://github.com/KrishnaAggarwal2003/Mouse-Movement-Analysis-using-OpenCV/blob/main/With-boxes_video_gif.gif)
 
 ## The analysis Plots
 ### The intensity plot
