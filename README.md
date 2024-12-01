@@ -10,3 +10,20 @@ This comprehensive approach combines visualization and analysis, making it a val
 ### The original video
 ![The original data gif](Initial_video_gif.gif)
 
+### Video with boxes added using OpenCV
+![With boxes gif](With_boxes_video_gif.gif)
+
+## The analysis Plots
+### The intensity plot
+- Original plot
+![intensity](https://github.com/user-attachments/assets/2489b789-7107-4a17-8e6b-ca97d1de4950)
+- Plot after denoising the data
+![denoise](https://github.com/user-attachments/assets/68014877-eb5a-4321-ae6c-2ec330c20fd0)
+
+### Intensity derivative plots
+- Original data derivative plot
+![before](https://github.com/user-attachments/assets/ba6ebeb7-e041-43d5-a9f2-c9ccefbb8ec6)
+- After denoising
+![after](https://github.com/user-attachments/assets/914c90ec-7145-4501-996c-f4343b85a127)
+
+
